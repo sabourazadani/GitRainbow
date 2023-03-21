@@ -10,6 +10,13 @@ Classs Git {
      String name = "git learning";
      System.out.println("Name: " + name);
   }
+  
+  public void loop5() {
+     for(int i=0; i<=5; i++) {
+         System.out.println("i: "+i);
+        } 
+  } 
+  
 }
 
 
