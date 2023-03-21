@@ -1,8 +1,15 @@
-Classs Git; 
+Classs Git {
 
    public static void main (String [] args){
     
       // print a line 
      System.out.println("Learning Git");
-
+   }
+  
+   public void display(){
+     String name = "git learning";
+     System.out.println("Name: " + name);
+  }
 }
+
+
